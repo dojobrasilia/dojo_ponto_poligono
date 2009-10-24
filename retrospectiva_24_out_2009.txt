@@ -1,0 +1,37 @@
+Participaram
+- Bruno Pedroso
+- Bruno Rolim
+- Bruno Mendonça
+- André Teixeira
+- Estêvão Passarinho
+- Ian Gallina
+- Eduardo Marques
+
+
+:-)
+
+	- Ruby
+	- Quorum bom, gente nova
+	- Ambiente do Laico bom
+	- problema interessante
+
+:-(
+
+	- ficou muito tempo com teste quebrado (passo muito grande entre a implementação stub e a verdadeira)
+	- pareceu que a gente burlou o TDD em algum sentido
+	- demorou a chegar todo mundo
+	- tivemos que mudar de sala (no-LINF, no-BT504)
+	- faltou café
+	- faltou música
+	- até agora o código tá espaguetado
+	- faltou quadro branco
+	- teve gente q confirmou e não veio (Tharsis, Tulio)
+	- B.Mendonça e André ficaram calados
+	
+comentários
+	- teclado do mac ainda é problema?
+	- podíamos fazer uma planejadinha a cada par.
+	
+	
+	
+	
